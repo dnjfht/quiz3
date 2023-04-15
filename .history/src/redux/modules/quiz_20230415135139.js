@@ -24,53 +24,53 @@ const initialState = {
   quiz_list: [
     {
       image: "assets/1.png",
-      quiz: "승민의 mbti는 intj다?",
+      quiz: "유승민의 mbti는 intj다?",
       answer: true,
     },
     {
       image: "assets/2.png",
-      quiz: "승민은 고기를 좋아한다?",
+      quiz: "유승민은 고기를 좋아한다?",
       answer: false,
     },
     {
       image: "assets/3.png",
-      quiz: "승민은 사람들한테 관심이 없는 편이다?",
+      quiz: "문빈은 유승민의 이상형이다?",
       answer: true,
     },
     {
       image: "assets/4.png",
-      quiz: "승민의 키는 158cm다?",
+      quiz: "정윤오는 유승민의 이상형이다?",
       answer: false,
     },
     {
       image: "assets/5.png",
-      quiz: "승민은 패션디자인을 전공했었다?",
+      quiz: "도경수는 유승민의 이상형이다?",
       answer: false,
     },
     {
       image: "assets/6.png",
-      quiz: "승민의 주량은 소주 5잔이다?",
-      answer: false,
-    },
-    {
-      image: "assets/7.png",
-      quiz: "승민은 거짓말하는 사람을 제일 싫어한다?",
+      quiz: "황현진은 유승민의 이상형이다?",
       answer: true,
     },
     {
+      image: "assets/7.png",
+      quiz: "최수빈은 유승민의 이상형이다?",
+      answer: false,
+    },
+    {
       image: "assets/8.png",
-      quiz: "승민은 고양이보다 강아지를 더 좋아한다?",
+      quiz: "김태형은 유승민의 이상형이다?",
       answer: false,
     },
     {
       image: "assets/9.png",
-      quiz: "승민은 고1 때부터 흡연을 했다?",
+      quiz: "송강은 유승민의 이상형이다?",
       answer: false,
     },
     {
       image: "assets/10.png",
-      quiz: "승민은 이성을 볼 때 얼굴을 더 많이 본다?",
-      answer: false,
+      quiz: "우도환은 유승민의 이상형이다?",
+      answer: true,
     },
   ],
   user_answer: [],

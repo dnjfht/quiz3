@@ -142,7 +142,9 @@ export default function Start() {
           ref={userNameInputRef}
         />
 
-        <Button onClick={handleAddUserName}>{`${name} 퀴즈 풀러 가기`}</Button>
+        <Button
+          onClick={handleAddUserName}
+        >{`${name} 이상형 맞추러 가기`}</Button>
       </Square>
     </Wrap>
   );
